@@ -13,8 +13,6 @@ To guide users, a sample prompt is provided:
 
 ## **Technology Stack**
 - **Backend**: Python with the ChatGPT API for natural language processing.
-- **Frontend**: React.js for an interactive and user-friendly interface.
-- **Database**: Firebase for storing and retrieving user-generated photo names.
 
 ## **Key Features**
 - **AI-Driven Assistance**: Helps users generate accurate, descriptive names based on visual elements in the photo.
